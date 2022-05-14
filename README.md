@@ -39,10 +39,13 @@ We are helping Tom, a board of elections employee, with an audit of the U.S. Con
 
 
 
-## Election-AuditSummary
+## Election-Audit Summary
 
 ### Business Proposal
-After working with Tom, we were able to succesffuly audit the U.S. Congressional Precinct Election. I believe we can do more work together in the future. With some changes to our script, we can audit other elections with different counties and candidates.
+After working with Tom, we were able to succesffuly audit the U.S. Congressional Precinct Election:
+![Chart](Resources/output.PNG)
+
+I believe we can do more work together in the future. With some changes to our script, we can audit other elections with different counties and candidates. 
 
 #### Example 1
 ![Chart](Resources/code1.PNG)
